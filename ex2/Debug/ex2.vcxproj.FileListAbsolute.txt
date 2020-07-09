@@ -1,0 +1,2 @@
+C:\Users\polin\Source\Repos\ex2\Debug\ex2.exe
+C:\Users\polin\Source\Repos\ex2\Debug\ex2.pdb
